@@ -28,7 +28,7 @@ From dimension and basis to psuedoinverses this course covers more than what is 
  
  4. <B><I>edX: Probability - The Science of Uncertainty and Data:</B></I><br>
  Url: https://www.edx.org/course/probability-the-science-of-uncertainty-and-data
- This is a MIT Micromaster Program so definitely it will be long and detailed. In my opinion if you have elementary level knowledge of probability, you can manage to go for ML courses. <b> Enroll in this course only if you necessarily want to learn probability.<b>
+ This is a MIT Micromaster Program so definitely it will be long and detailed. In my opinion if you have elementary level knowledge of probability, you can manage to go for ML courses. <b> Enroll in this course only if you necessarily want to learn probability.</b>
 
 
 
