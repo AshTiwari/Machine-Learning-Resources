@@ -49,3 +49,9 @@ Alternatively, you can find the same course on YouTube.<br>
  2. <B><I>Udemy: Machine Learning A-Z™: Hands-On Python & R In Data Science:</B></I><br>
  Url: https://www.udemy.com/course/machinelearning/<br>
  As much as I adore Andrew NG's course for it's theory, I cannot deny the fact that the course doesn't focus on implementation. Now, I  haven't folllowed this course yet but many people have recommended me this course so it is worth a try. 
+ 
+ 
+ 
+ 
+Imp:  Kaggle (https://www.kaggle.com/)<br>
+This is the place where we can find our dataset. Simply type in the search box and click on the results.
